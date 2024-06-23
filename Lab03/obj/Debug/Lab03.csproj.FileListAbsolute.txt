@@ -1,0 +1,7 @@
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab03\Lab03\obj\Debug\Lab03.pdb

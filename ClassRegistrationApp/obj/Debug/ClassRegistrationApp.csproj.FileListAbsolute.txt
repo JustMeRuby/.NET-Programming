@@ -1,0 +1,12 @@
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.exe.config
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\bin\Debug\ClassRegistrationApp.pdb
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.ClassSelectionForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.LoginForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.Properties.Resources.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.RegistrationForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.GenerateResource.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\ClassRegistrationApp\ClassRegistrationApp\obj\Debug\ClassRegistrationApp.pdb

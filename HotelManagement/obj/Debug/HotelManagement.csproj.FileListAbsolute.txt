@@ -1,0 +1,7 @@
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
