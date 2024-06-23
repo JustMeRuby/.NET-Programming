@@ -1,0 +1,11 @@
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.exe.config
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\bin\Debug\SmartphoneManagement.pdb
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.AssemblyReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.ResolveComReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.FrmPhoneManagement.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.Properties.Resources.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.GenerateResource.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\SmartphoneManagement\SmartphoneManagement\obj\Debug\SmartphoneManagement.pdb
