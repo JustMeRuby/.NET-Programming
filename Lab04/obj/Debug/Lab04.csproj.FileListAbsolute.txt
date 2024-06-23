@@ -1,0 +1,12 @@
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.AccountRegistrationForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.AirTicketBookingForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.LoginForm.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\Ruby\Downloads\Study\.Net Programming\Lab04\Lab04\obj\Debug\Lab04.pdb
